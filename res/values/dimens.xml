@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="slv_item_height">48dip</dimen>
+
+    <dimen name="slv_item_bg_btn_width">48dip</dimen>
+    <dimen name="slv_item_bg_btn_width_img">100dip</dimen>
+
+    <dimen name="txt_size">5sp</dimen>
+</resources>
